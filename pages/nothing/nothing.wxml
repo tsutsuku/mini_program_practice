@@ -1,0 +1,5 @@
+<!--pages/nothing/nothing.wxml-->
+<view id='container'>
+  <text>ok\n</text>
+  <text>hohoooo</text>
+</view>
